@@ -8,7 +8,7 @@
 
 สล็อตเว็บตรง ใหม่ล่าสุด สมัครสล็อต เข้าสู่ระบบเล่นผ่านเรา เว็บสล็อตเว็บตรง ปี 2022.
 
-[![แชร์บล็อคนี้](https://vercel.com/button)](https://www.facebook.com/sharer/sharer.php?u=https://pg-slot-free.vercel.app/)
+[![แชร์บล็อคนี้](https://www.pngfind.com/pngs/m/88-881535_free-facebook-share-icon-png-transparent-png.png)](https://www.facebook.com/sharer/sharer.php?u=https://pg-slot-free.vercel.app/)
 
 _ทดลองเล่น : https://pg-slot-free.vercel.app/_
 
