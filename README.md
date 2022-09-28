@@ -1,4 +1,4 @@
-![PGSLOTMC](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+![PGSLOTMC](pgslotmc-logo.png)
 
 # ยินดีต้อนรับสู่ PGSLOTMC.COM
 
@@ -8,7 +8,7 @@
 
 สล็อตเว็บตรง ใหม่ล่าสุด สมัครสล็อต เข้าสู่ระบบเล่นผ่านเรา เว็บสล็อตเว็บตรง ปี 2022.
 
-[![แชร์บล็อคนี้](https://www.pngfind.com/pngs/m/88-881535_free-facebook-share-icon-png-transparent-png.png)](https://www.facebook.com/sharer/sharer.php?u=https://pg-slot-free.vercel.app/)
+[![แชร์บล็อคนี้]()
 
 _ทดลองเล่น : https://pg-slot-free.vercel.app/_
 
@@ -16,6 +16,6 @@ _ทดลองเล่น : https://pg-slot-free.vercel.app/_
 
 พีจี สล็อต เป็นเว็บไซต์คาสิโนออนไลน์ที่ดีที่สุด อันดับ 1 ของไทยและเอเชียโดยเฉพาะสล็อตออนไลน์. เล่นตอนนี้และรับรางวัลแจ็คพอต! สล็อตออนไลน์ สมัครสล็อต ถอนได้ไม่จำกัด สูงสุดวันละ 2 ล้าน. เว็บสล็อต โคตรเซียน เล่นไม่มีขั้นต่ำ ฝาก-ถอน รวดเร็ว ทันใจ สล็อตออนไลน์ อันดับ 1 ของไทย [pgslot mc](https://pgslotmc.com)  โปรโมชั่นสล็อต ระบบรวดเร็วที่สุดในไทย ฝากถอน ได้วันละ 2 ล้าน ระบบน่าเชื่อถือ เล่นได้ จ่ายจริง การันตรีผู้เล่นมากกว่า 5,000 คนต่อวัน แจกโบนัสทุกวัน:
 
-```shell
-https://pgslotmc.com
-```
+
+[เข้าเล่น](https://pgslotmc.com)
+
