@@ -2,7 +2,7 @@
 title: ยินดีต้อนรับสู่ Pgslotmc.com 
 ---
 
-ยินดีต้อนรับสู่ [Pgslotmc](https://pg-slot-free.vercel.app/)! This is your very first post. Check [documentation](https://pg-slot-free.vercel.app/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+ยินดีต้อนรับสู่ [Pgslotmc](https://pgslotmc.com/)! This is your very first post. Check [documentation](https://pg-slot-free.vercel.app/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
 
