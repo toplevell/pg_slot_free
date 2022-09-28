@@ -1,21 +1,21 @@
-![Hexo Logo](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
+![PGSLOTMC](https://github.com/vercel/vercel/blob/main/packages/frameworks/logos/hexo.svg)
 
-# Hexo Example
+# ยินดีต้อนรับสู่ PGSLOTMC.COM
 
-This directory is a brief example of a [Hexo](https://hexo.io/) site that can be deployed to Vercel with zero configuration.
+เว็บไซต์เดียว เล่นได้ทั้ง สล็อตออนไลน์ และ ยิงปลา หากท่าน สมัครPG SLOT เพียงฝากครั้งแรกขั้นต่ำ 100 บาท รับโบนัสทันที 50% [PgSotMc](https://pg-slot-free.vercel.app/) สูงสุดถึง 500 บาทให้คุณได้สนุกจุใจ และเพิ่มโอกาส ของการออกโบนัส ให้สูงขึ้น เติมเต็มทุกความสุขของการเล่น ให้เพลิดเพลิน ยิ่งกว่าเดิม.
 
-## Deploy Your Own
+## สล็อตเว็บตรง pgslotmc
 
-Deploy your own Hexo project with Vercel.
+สล็อตเว็บตรง ใหม่ล่าสุด สมัครสล็อต เข้าสู่ระบบเล่นผ่านเรา เว็บสล็อตเว็บตรง ปี 2022.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/hexo&template=hexo)
 
-_Live Example: https://hexo-template.vercel.app_
+_ทดลองเล่น : https://pg-slot-free.vercel.app/_
 
-### How We Created This Example
+### เว็บสล็อตออนไลน์
 
-To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](https://hexo.io/docs/index.html#Installation) to initialize the project:
+พีจี สล็อต เป็นเว็บไซต์คาสิโนออนไลน์ที่ดีที่สุด อันดับ 1 ของไทยและเอเชียโดยเฉพาะสล็อตออนไลน์. เล่นตอนนี้และรับรางวัลแจ็คพอต! สล็อตออนไลน์ สมัครสล็อต ถอนได้ไม่จำกัด สูงสุดวันละ 2 ล้าน. เว็บสล็อต โคตรเซียน เล่นไม่มีขั้นต่ำ ฝาก-ถอน รวดเร็ว ทันใจ สล็อตออนไลน์ อันดับ 1 ของไทย [pgslot mc](https://pgslotmc.com)  โปรโมชั่นสล็อต ระบบรวดเร็วที่สุดในไทย ฝากถอน ได้วันละ 2 ล้าน ระบบน่าเชื่อถือ เล่นได้ จ่ายจริง การันตรีผู้เล่นมากกว่า 5,000 คนต่อวัน แจกโบนัสทุกวัน:
 
 ```shell
-$ hexo init project-name
+https://pgslotmc.com
 ```
